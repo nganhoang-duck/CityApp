@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # city_app
 
 A new Flutter project.
@@ -18,3 +19,15 @@ samples, guidance on mobile development, and a full API reference.
 =======
 # mobile_learning
 >>>>>>> cfdae37bc8d61cd9003c1f0adf79a94e1a780704
+=======
+# CityApp
+Using Dart, Flutter, API, Firebase Auth, FireStore
+
+#Firebase
+npm install -g firebase-tools
+Set-ExecutionPolicy -Scope Process -ExecutionPolicy Bypass
+firebase login
+dart pub global activate flutterfire_cli
+flutterfire configure
+flutter pub add firebase_core
+>>>>>>> 4497791d673c25f89a6ecfa48b5595c01b2473fd
